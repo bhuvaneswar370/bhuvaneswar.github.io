@@ -5,6 +5,26 @@
     "branch": "gh-pages"
   },
   "theme": {
-    "name": "Casper"
+    "name": "casper"
+  },
+  "urls": {
+    "site": "https://bhuvaneswar370.github.io/bhuvaneswar.github.io",
+    "hubpress": "https://bhuvaneswar370.github.io/bhuvaneswar.github.io",
+    "theme": "//bhuvaneswar370.github.io/bhuvaneswar.github.io/themes/casper",
+    "images": "https://bhuvaneswar370.github.io/bhuvaneswar.github.io/images"
+  },
+  "initialisationConfigComponent": {
+    "name": "initialise-configuration",
+    "computed": {},
+    "methods": {},
+    "staticRenderFns": [
+      null,
+      null,
+      null
+    ],
+    "_compiled": true,
+    "beforeCreate": [
+      null
+    ]
   }
 }
