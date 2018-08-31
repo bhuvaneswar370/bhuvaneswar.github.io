@@ -1,0 +1,10 @@
+= DevOps Ranger
+=== Hi this is my first blog, i love kubernetes and ansible, and love to program *java and Node.js* application
+I started learning perl scripting 
+'${variagle:$1,$2}'
+
+
+// :hp-image: /covers/cover.png
+// :published_at: 2019-01-31
+// :hp-tags: HubPress, Blog, Open_Source,
+// :hp-alt-title: My English Title
