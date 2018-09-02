@@ -1,17 +1,17 @@
 {
   "meta": {
     "username": "bhuvaneswar370",
-    "repositoryName": "bhuvaneswar.github.io",
+    "repositoryName": "bhuvaneswar370.github.io",
     "branch": "gh-pages"
   },
   "theme": {
     "name": "casper"
   },
   "urls": {
-    "site": "https://bhuvaneswar370.github.io/bhuvaneswar.github.io",
-    "hubpress": "https://bhuvaneswar370.github.io/bhuvaneswar.github.io",
-    "theme": "//bhuvaneswar370.github.io/bhuvaneswar.github.io/themes/casper",
-    "images": "https://bhuvaneswar370.github.io/bhuvaneswar.github.io/images"
+    "site": "https://bhuvaneswar370.github.io/bhuvaneswar370.github.io",
+    "hubpress": "https://bhuvaneswar370.github.io/bhuvaneswar370.github.io",
+    "theme": "//bhuvaneswar370.github.io/bhuvaneswar.github370.io/themes/casper",
+    "images": "https://bhuvaneswar370.github.io/bhuvaneswar370.github.io/images"
   },
   "initialisationConfigComponent": {
     "name": "initialise-configuration",
